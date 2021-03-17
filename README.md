@@ -27,7 +27,8 @@ A: 102.255.153.56
 A: 194.226.122.0
 
 <b>You have an interface on a router with the IP address of 224.11.18.182/18. Including
-the router interface, how many hosts can have IP addresses on the LAN attached to the router interface?</b>
+the router interface, how many hosts can have IP addresses on the LAN attached to
+the router interface?</b>
 A: 16382
 
 <b>If an Ethernet port on a router were assigned an IP address of 37.77.46.164/29, which
