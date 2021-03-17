@@ -82,7 +82,7 @@ local subnet that uses the 255.252.0.0 subnet mask?</b>
 A: 262142
 
 <b>Which of this is not true?</b>
-TCP has only the basic error checking mechanism using checksums
+A: TCP has only the basic error checking mechanism using checksums
 </pre>
 
 **** Testers ****
