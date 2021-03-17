@@ -87,7 +87,7 @@ A: TCP has only the basic error checking mechanism using checksums
 
 **** Testers ****
 
-[netwhat42-train](https://github.com/adblanc/netwhat42-train)\
+[netwhat42-train](https://github.com/adblanc/netwhat42-train)
 
 **** Info ****
 
