@@ -1,16 +1,14 @@
-# netwhat
-
 ![GitHub Logo](/extras/images/Success.png)
 
 ###### <i>Recent Update on 16/02/2021.</i>
-Finished the project.\
-The test this time was 15 minutes and 20 questions.
+• Finished the project.\
+• The test this time was 15 minutes and 20 questions.
 
 ###### <i>Update on 12/02/2021.</i>
-Failed the project due to time.\
-The test was 10 minutes and 20 questions.
+• Failed the project due to time.\
+• The test was 10 minutes and 20 questions.
 
-**** Questions on my test ****
+## Questions on my test
 
 <pre>
 <b>Which protocol does Ping use?</b>
@@ -85,11 +83,11 @@ A: 262142
 A: TCP has only the basic error checking mechanism using checksums
 </pre>
 
-**** Testers ****
+## Testers
 
 [netwhat42-train](https://github.com/adblanc/netwhat42-train)
 
-**** Info ****
+## Info
 
 Links used during the test:\
 [IP Calculator / IP Subnetting](http://jodies.de/ipcalc?host=192.168.0.1&mask1=24&mask2=)\
