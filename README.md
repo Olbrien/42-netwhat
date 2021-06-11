@@ -83,11 +83,11 @@ A: 262142
 A: TCP has only the basic error checking mechanism using checksums
 </pre>
 
-## Testers
+## Testers:
 
 [netwhat42-train](https://github.com/adblanc/netwhat42-train)
 
-## Info
+## Info:
 
 Links used during the test:\
 [IP Calculator / IP Subnetting](http://jodies.de/ipcalc?host=192.168.0.1&mask1=24&mask2=)\
