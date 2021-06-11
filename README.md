@@ -8,7 +8,7 @@
 • Failed the project due to time.\
 • The test was 10 minutes and 20 questions.
 
-## Questions on my test
+## Questions:
 
 <pre>
 <b>Which protocol does Ping use?</b>
